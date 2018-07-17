@@ -1,0 +1,328 @@
+THREE
+The Lives of a Company
+The Company at Birth
+The story begins as follows. Somebody has a brainstorm and invents a new product. It doesn’t have to be a VIP, a Ph.D., a Phi Beta Kappa, or a college graduate. It could even be a high-school dropout or a college dropout, and in the case of Apple Computer, it was two college dropouts.
+It’s amazing how many billion-dollar companies got launched on people’s kitchen tables or out of their garages. The Body Shop started in Anita Roddick’s garage. She was a British housewife looking for something to do while her husband was away on business trips. So she made lotions and potions, and turned them into a skin-care empire, with nine hundred Body Shops worldwide.
+The first Hewlett-Packard computer came out of David Packard’s garage, and the first Apple computer was created in the garage that belonged to Steve Jobs’s parents. To encourage more innovation in the world, maybe we need to build more garages.
+Let’s look more closely at the origins of Apple. The company was founded in 1976, two hundred years after the founding of the country. Today, it sells $5 billion worth of computers worldwide every year, and pays the salaries of 11,300 workers. But before 1976, Apple didn’t exist, except as a gleam in the eyes of two California boys.
+One was Jobs, and the other was his buddy Steve Wozniak. Jobs was twenty-one at the time; Wozniak, twenty-six. That both were college dropouts gives them something in common with Ben Cohen, the Ben of Ben & Jerry’s ice cream. All three left school early, started a company from scratch, and become multi-millionaires before they were thirty-five.
+That doesn’t mean you should drop out of school and wait for something wonderful to happen. These three people knew how to read, write, and count, and the two Steves had already learned a great deal about computers. They didn’t leave school so they could sleep late and goof off the rest of the day. They fiddled around with transistors, wires, and printed circuits.
+Wozniak was one of the original “hackers”—pesky computer whizzes who experimented with homemade equipment and learned how to break security codes and invade databases and create havoc in government agencies and corporate offices. On a more constructive note, he thought about designing a simple computer that could be used at home by people who had never handled one, and who were so confused by the whole business that they couldn’t tell a disk drive from a disc jockey. That was 99.9 percent of the population.
+So Wozniak and Jobs set up shop in the Jobs’s family garage, took some generic computer parts and put them together in a plastic box, and called it the Apple I. Both of them got very excited about what they’d produced. They decided to sell everything they owned—which amounted to one old van and two calculators—and sink the proceeds into the business.
+They raised thirteen hundred dollars of their own money, which at 1976 prices helped finance the production of fifty more Apples. Then they sold those fifty and used that money to develop an improved model and sold several hundred copies of that.
+In this first stage, the source of the bright idea is paying the bills out of his own pocket. When the cash runs out, he hocks the family jewels, sells the second car, gets a home equity loan from the bank—whatever it takes to move the project along.
+The risk of losing their house, prized possessions, and life savings is a risk that many backyard inventors are ready to take in order to launch a fledgling enterprise. These are people with grit and gumption, willing to wander into uncharted territory just like the pioneers of old. In starting a new business, they choose excitement over the security of a regular paycheck. It’s not enough that they invest all their money in the project. They must also work long hours and invest most of their time.
+If they’re lucky and they don’t hit any snags or run out of money too quickly, they’ll be able to make a sample or a scale model of the gizmo they’ve invented, or pay a consultant to write a detailed plan for the business they’re hoping to get into. At this point, they move to the exciting stage when even more money is required. They pitch the project to an “angel.”
+The angel could be a rich uncle, a distant cousin, or a friend with big bucks and a willingness to invest in a longshot. It’s not out of charity that angels put up the money. They do it because they are convinced the new idea has a fighting chance to succeed. And in return for their capital, they ask for a share of the business—often a rather large share.
+Already you can see that the person who has the great idea can’t hope to succeed by being selfish and keeping 100 percent ownership for him- or herself. As the project moves beyond the scale-model stage or the planning stage, more money will have to be raised from new investors with bigger bankrolls. These are the venture capitalists.
+Venture capitalists usually enter the picture when the gizmo is in production, and a sales force has been hired to sell it. They reduce their risk by waiting until the new company is established and the idea has already proven itself to some extent. These people have a keen eye for detail, and they review every aspect of the company’s brief history looking for flaws. They want to know if the management knows what it’s about, and whether it has the ability to turn the operation from small-time into big-time.
+In return for financial aid, the venture capitalists also demand a piece of the action. Now our young company has three groups of owners: the original inventor who put up the first batch of money; the angels who put up the second batch; and the venture capitalists who put up the third. By this time, the original inventor may own less than 50 percent of the business, because the bigger the pie gets, the more people with their fingers in it.
+Let’s check in again on the progress of the two Steves at Apple. Sensing they had a popular product on their hands, they brought in a retired electronics engineer who was also a marketing expert. His name was Mike Markkula. Markkula had worked for two giants in the computer industry: Intel and Fairchild Semiconductor. He was old enough to be the father of the two inventors.
+Markkula could have dismissed the pair as the rank amateurs they were, but he knew a good thing when he saw it. Not only did he agree to write their business plan, he bought a one-third share of the company for $250,000—making him Apple’s original angel.
+People who are good at inventing things are not necessarily good at promotion, advertising, finance, or personnel management—any one of which can make or break a young enterprise. Realizing the two Steves needed more help than even he could give them, Markkula recruited Mike Scott, an experienced corporate executive, to be Apple’s president.
+The company also hired Regis McKenna, a veteran copywriter from one of the best advertising firms in the area, who designed the Apple logo. With these new associates taking care of marketing and promotion, the two Steves were free to concentrate on improving the product.
+Apple was the first personal computer to offer color graphics, and the first to use a TV monitor as a screen. Wozniak installed a disk drive to replace the cassette tapes that were used to store data in those days. By June 1977, they’d sold $1 million worth of Apples, and by the end of 1978, when they introduced the Apple II, Apple was one of the fastest-growing companies in the United States.
+As sales continued to climb, the two Steves kept themselves busy in the Apple lab (no more garages for them!) designing more Apples. Meanwhile, in 1979, they raised more money: Wozniak sold some of his stock to financier Fayez Sarofim, and a group of venture capitalists organized by the L. F. Rothschild company invested $7.2 million.
+The company had produced its fourth new model by the time it went public in December 1980. This is typical—Apple waited until it had proven itself and the Apples were flying off the shelves before going public.
+Going Public
+It’s in this stage that the stock market comes into play. By now, the company has refined its gizmo and taken the kinks out of it and is preparing for a full-scale expansion. Or, if the original idea was a new kind of store, the first store has already proven itself, and the company is already planning a second store, and a third, and so on. This sort of ambitious campaign requires more money than the angels and venture capitalists have kicked in so far, and the best place to get it is from you and me.
+It’s a momentous decision to take a company public, not unlike the decision of a private person to run for public office. Once you do either, you open yourself up to reporters sticking their noses into your business and government agencies following your every move. The life of a politician is no longer his or her own, and neither is the life of a company that goes from private to public.
+Companies take this step and put up with the hassles of living in a fishbowl, because going public is their best chance to raise enough money to reach their full potential.
+A company has two important birthdays—the day it incorporates and the day it goes public. This blessed event is called the “initial public offering.” Each year, hundreds of stocks are born in this fashion, with an assist from the investment-banking firms that oversee the delivery.
+The bankers’ part of the job, selling the shares to interested parties, is called the underwriting. These bankers go out on a “road show,” where they try to convince would-be investors to buy the stock. These would-be investors are given a document (the “prospectus”) that explains everything about the company, including all the reasons why they shouldn’t buy the stock. These warnings are printed in large red letters so people can’t say they didn’t see them. On Wall Street, the warning labels are called “red herrings.”
+In the prospectus, the bankers must also estimate the price at which the first shares will be sold. Usually, they pick a range, say, from twelve dollars to sixteen dollars, with the final price determined by what sort of reception they get on the road show.
+The bankers publicize an underwriter by putting in the papers an ad called a tombstone. The so-called lead bank on the deal gets its name in a prominent spot on the tombstone. You’d be surprised at the squabbling and jostling that goes on behind the scenes among banks that compete to get the credit for being the lead bank. A sample tombstone is shown on page 176.
+Whereas a human life comes to an end with an undertaker and a tombstone, a company’s public life begins with an underwriter and a tombstone. This is one of the curiosities in the financial lingo of Wall Street.
+In a peculiar twist of fate, the small investor (this term, “small investor,” is used to describe the size of the portfolio and not the size of the person) rarely gets the chance to buy shares in small, newborn companies at the initial offering price. These initial shares are usually reserved for “big” investors, such as fund managers who have millions, and even billions of dollars to work with.
+The 4.6-million-share offering for Apple Computer was sold out within an hour, and mutual-fund managers were scrambling to get their hands on as many shares as they could. As usual, amateur investors were shut out of the deal, especially in Massachusetts. Many states have “blue-sky” laws to protect the public from fraudent promotions, and the Massachussetts regulators put Apple in that category. They coudn’t have been more wrong.
+
+In any event, once an offering is completed, the proceeds are divided. A small chunk of the money goes to the underwriters—the investment banks that organized the road show and put together the deal. Another chunk goes to the founders of the company, plus the angels and the venture capitalists, who use the offering to sell some of their shares. The rest of the money is returned to the company itself. This is the capital it uses to expand the business.
+At this point, the company has a new set of owners—the investors who bought shares in the offering. It’s their money that pays the underwriters, enriches the founders, and helps the company to expand. Now comes the moment everybody has been waiting for: The shares begin to trade on the stock exchange.
+Apple made its debut on the NASDAQ over-the-counter market in December 1980. Now, anybody could buy the stock, including all the small investors who were shut out of the initial offering. What often happens is that the newly issued stock may rise for a few days, weeks, or months, but after that, the excitement tends to wear off, and the price comes down. This is a great time for small investors to pounce on a bargain. After twelve months of trading, Apple shares had dropped from the twenty-two-dollar offering price to fourteen dollars.
+It doesn’t always happen this way, but it happens often enough that small investors get the last laugh on the big shots who bought the original shares.
+The founders don’t have to sell their entire stake in the company in the public offering. Normally, they sell only a part of their stake. That’s how Jobs, Wozniak, and Markkula cashed in. They kept most of their shares of Apple, which after the first day of trading on the open market gave them each a net worth of more than $100 million. For Jobs and Wozniak, it was not a bad return on an initial investment of thirteen hundred dollars, made just four years earlier. (Markkula bought in at $250,000—not a bad investment for him, either.)
+Only in the capitalist system can backyard inventors and school dropouts start companies that employ thousands of people and pay taxes and make the world a better place to live. The citizens of communist countries never had that chance.
+The only time a company benefits from its own stock is in a public offering. When you buy a used Chrysler minivan, it doesn’t do Chrysler any good, and when you buy a share of Chrysler on the stock exchange, that doesn’t do Chrysler any good, either. Millions of shares of Chrysler trade back and forth every week on the stock exchange, and Chrysler doesn’t benefit in the least. These shares are being bought and sold by private owners, just like the people who sell each other used cars and minivans. The money passes directly from one private owner to another.
+Only when you buy a new Chrysler does the company get something out of it. Likewise, only when a company issues new shares does it get something out of its stock. It may issue new shares only once in its lifetime, in the initial public offering, or it may have subsequent offerings called “secondaries.”
+The Company When It’s Young
+The young company is full of energy, bright ideas, and hope for the future. It is long on expectations and short on experience. It has the cash that was raised in the offering, so chances are it doesn’t have to worry about paying its bills at this point. It expects to be earning a living before the original cash runs out, but there’s no guarantee of that.
+In its formative years, a company’s survival is far from assured. A lot of bad things can happen. It may have a great idea for a product but spend all its money before the product is manufactured and shipped to the stores. Or maybe the great idea turns out not to have been so great after all. Or maybe the company gets sued by people who say they had the great idea first, and the company stole it. If the jury agrees with the plaintiffs, the company could be forced to pay millions of dollars it doesn’t have. Or maybe the great idea becomes a great product that fails a government test and can’t be sold in this country. Or maybe another company comes along with an even greater product that does the job better, or cheaper, or both.
+In industries where the competition is fierce, companies knock each other off all the time. Electronics is a good example. Some genius in a lab in Singapore invents a better relay switch, and six months later it’s on the market, leaving the other manufacturers with obsolete relay switches that nobody wants.
+It’s easy to see why one-half of all new businesses are dissolved within five years, and why the most bankruptcies happen in competitive industries.
+Because of the variety of calamities that can befall a company in the high-risk juvenile phase of its life, the people who own the shares have to protect their investment by paying close attention to the company’s progress. You can’t afford to buy any stock and then go to sleep and forget about it, but young companies, especially, must be followed every step of the way. They are often in the precarious position where one false step can put them into bankruptcy and out of business. It’s especially important to assess their financial strength—the biggest problem with young companies is that they run out of cash.
+When people go on vacation, they tend to take twice as many clothes as they’re going to need, and half as much money. Young companies make the same mistake about money: They start out with too little.
+Now for the good part: Starting from scratch, a young company can grow very fast. It’s small and it’s restless, and it has plenty of room to expand in all directions. That’s the key reason young companies on the move can outdistance the middle-aged companies that have had their growth spurt and are past their prime.
+The Company in Middle Age
+Companies that manage to reach middle age are more stable than young companies. They’ve made a name for themselves and they’ve learned from their mistakes. They have a good business going, or they wouldn’t have gotten this far. They’ve got a proven record of reliability. Chances are they’ve got money in the bank and they’ve developed a good relationship with the bankers, which comes in handy if they need to borrow more.
+In other words, they’ve settled into a comfortable routine. They’re still growing, but not as fast as before. They have to struggle to stay in shape, just as the rest of us do when we reach middle age. If they allow themselves to relax too much, leaner and meaner competitors will come along to challenge them.
+A company can have a midlife crisis, the same as a person. Whatever it’s been doing doesn’t seem to be working anymore. It abandons the old routines and thrashes around looking for a new identity. This sort of crisis happens all the time. It happened to Apple.
+In late 1980, just after Apple went public, it came out with a lemon: the Apple III. Production was halted while the problems were ironed out, but by then it was too late. Consumers had lost faith in Apple III. They lost faith in the whole company.
+There’s nothing more important to a business than its reputation. A restaurant can be one hundred years old and have a wall full of awards, but all it takes is one case of food poisoning or a new chef who botches the orders, and a century’s worth of success goes out the window. So to recover from its Apple III fiasco, Apple had to act fast. Heads rolled in the front office, where several executives were demoted.
+The company developed new software programs, opened offices in Europe, installed hard disks in some of its computers. On the plus side, Apple reached $1 billion in annual sales in 1982, but on the minus side, it was losing business to IBM, its chief rival. IBM was cutting into Apple’s territory: personal computers.
+Instead of concentrating on what it knew best, Apple tried to fight back by cutting in on IBM’s territory: business computers. It created the Lisa, a snazzy machine that came with a new gadget: the mouse. But in spite of the mouse, the Lisa didn’t sell. Apple’s earnings took a tumble, and so did the stock price—down 50 percent in a year.
+Apple was less than ten years old, but it was having a full-blown midlife crisis. Investors were dismayed, and the company’s management was feeling the heat. Employees got the jitters and looked for other jobs. Mike Markkula, Apple’s president, resigned. John Sculley, former president of Pepsi-Co, was brought in for the rescue attempt. Sculley was no computer expert, but he knew marketing. Marketing is what Apple needed.
+Apple was split into two divisions, Lisa and Macintosh. There was spirited rivalry between the two. The Macintosh had a mouse like the Lisa and was similar in other respects, but it cost much less and was easier to use. Soon, the company abandoned the Lisa and put all its resources into the Macintosh. It bought TV ads and made an incredible offer: Take one home and try it out for twenty-four hours, for free.
+The orders poured in and Apple sold seventy thousand Macintoshes in three months. The company was back on track with this great new product. There was still turmoil in the office, and Jobs had a falling out with Sculley.
+This is another interesting aspect of corporate democracy: Once the shares are in public hands, the founder of the company doesn’t necessarily get what he wants.
+Sculley changed a few things around and solved a few more problems, and the Macintosh ended up doing what the Lisa was supposed to do: It caught on with the business crowd. New software made it easy to link one Macintosh to another in a network of computers. By 1988, more than a million Macintoshes had been sold.
+A company’s midlife crisis puts investors in a quandary. If the stock has already dropped in price, investors have to decide whether to sell it and avoid even bigger losses or hold on to it and hope that the company can launch a comeback. In hindsight, it’s easy to see that Apple recovered, but at the time of the crisis, the recovery was far from assured.
+The Company When It’s Old
+Companies that are twenty, thirty, fifty years old have put their best years behind them. You can’t blame them for getting tired. They’ve done it all and seen it all, and there’s hardly a place they can go that they haven’t already been.
+Take Woolworth. It’s been around for more than one hundred years—several generations of Americans grew up shopping at Woolworth’s. At one point, there was a Woolworth’s outlet in every city and town in America. That’s when the company ran out of room to grow.
+Recently, Woolworth has suffered a couple of unprofitable years. It can still make a profit, but it will never be the spectacular performer it was when it was younger. Old companies that were great earners in the past can’t be expected to keep up the momentum. A few of them have—Wrigley’s, Coca-Cola, Emerson Electric, and McDonald’s come to mind. But these are exceptions.
+U.S. Steel, General Motors, and IBM are three prime examples of former champions whose most exciting days are behind them—although IBM and GM are having a rebound. U.S. Steel was once an incredible hulk, the first billion-dollar company on earth. Railroads needed steel, cars needed steel, skyscrapers needed steel, and U.S. Steel provided 60 percent of it. At the turn of this century, no company dominated its industry the way U.S. Steel dominated steel, and no stock was as popular as U.S. Steel stock. It was the most actively traded issue on Wall Street.
+When a magazine wanted to illustrate America’s power and glory, it ran a picture of a steel mill, with the fire in the furnaces and the liquid metal pouring like hot lava into the waiting molds. We were a nation of factories then, and a good deal of our wealth and power came from the mill towns of the East and the Midwest.
+The steel business was a fantastic business to be in, and U.S. Steel prospered through both world wars and six different presidents. The stock hit an all-time high of $1087/8 in August 1959.
+This was the beginning of the electronic age and the end of the industrial age and the glory of steel, and it would have been the perfect time for investors to sell their U.S. Steel shares and buy shares in IBM. But you had to be a very farsighted and unsentimental investor to realize this. After all, U.S. Steel was classed as a blue chip, Wall Street’s term of endearment for prestigious companies that are expected to excel forever. Hardly anyone would have predicted that in 1995, U.S. Steel stock would be selling for less than it sold for in 1959.
+To put this decline in perspective, the Dow Jones Industrial Average was bumping up against the five hundred level in 1959, and it’s gone up more than four thousand points since. So while stocks in the Dow have increased in value more than eight times over, U.S. Steel has gone downhill. Loyal shareholders have died and gone to heaven waiting for U.S. Steel to reclaim its lost glory.
+There’s a lesson here that may save you some grief in the future. No matter how powerful it may be today, a company won’t stay on top forever. Being called a “blue-chip” or a “world-class operation” can’t save a company whose time is past, any more than Great Britain was saved by having the word “Great” in its name.
+Long after Great Britain had lost its empire, the British people continued to think of their country as stronger and mightier than it really was, the same as the shareholders of U.S. Steel.
+International Harvester, the dominant force in farm equipment for an entire half-century, peaked in 1966 and never came back, even though it tried to change its luck by changing its name to Navistar. Johns-Manville, once number one in insulation and building supplies, topped out in 1971. The Aluminum Company of America, better known as Alcoa, a Wall Street darling of the 1950s when the country was discovering aluminum foil, aluminum siding, and aluminum boats, rose to $23 a share in 1957 (adjusted for splits), a price it didn’t see again until the 1980s.
+General Motors, the dominant car company in the world and the bluest of the automotive blue chips, reached a peak in October 1965 that it wouldn’t see again for nearly thirty years. Today, GM is still the largest company in the United States, and first in total sales, but it’s far from the most profitable. Sometime in the 1960s, its reflexes began to slow.
+The Germans came ashore with their Volkswagens and their BMWs, and the Japanese invaded with their Toyotas and Hondas. The attack was aimed directly at Detroit, and GM was slow to react. A younger, more aggressive GM might have risen to this challenge more quickly, but the older GM was set in its ways.
+It continued to make big cars when it could see that small foreign cars were selling like crazy. Before it could build new models that could compete with the overseas models, it had to overhaul its outmoded factories. This cost billions of dollars, and by the time the overhaul was complete, and small cars were rolling off the GM assembly lines, the public had switched back to bigger cars.
+For three decades the largest industrial company in the United States has not been largely profitable. Yet if you had predicted this result in 1965, when GM was riding the crest of its fame and fortune, nobody would have believed you. People would sooner have believed that Elvis was lip-synching.
+Then there’s IBM, which had reached middle age in the late 1960s, about the time GM was in decline. Since the early 1950s, IBM was a spectacular performer and a great stock to own. It was a top brand name and a symbol of quality—the IBM logo was getting to be as famous as the Coke bottle. The company won awards for how well it was managed, and other companies studied IBM to learn how they should run their operations. As late as the 1980s, it was celebrated in a best-selling book, In Search of Excellence.
+The stock was recommended by stockbrokers everywhere as the bluest of the blue chips. To mutual-fund managers, IBM was a “must” investment. You had to be a maverick not to own IBM.
+But the same thing happened to IBM that happened to GM. Investors were so impressed with its past performance that they did not notice what was going on in the present. People stopped buying the big mainframe computers that were the core of IBM’s business. The mainframe market wasn’t growing anymore. IBM’s personal-computer line was attacked from all sides by competitors who made a less-expensive product. IBM’s earnings sank, and as you probably can guess by now, so did the stock price.
+By now you might be wondering what’s the point of investing in a stodgy old company such as IBM, GM, or U.S. Steel? There are several reasons you might do this. First, big companies are less risky, in that they generally are in no danger of going out of business. Second, they are likely to pay a dividend. Third, they have valuable assets that might be sold off at a profit.
+These corporate codgers have been everywhere and seen it all, and they’ve picked up all sorts of valuable property along the way. In fact, studying an old company and delving into its finances can be as exciting as rummaging through the attic of a rich and elderly aunt. You never know what amazing stuff you’ll find stuck in a dark corner.
+Whether it’s land, buildings, equipment, the stocks and bonds they keep in the bank, or the smaller companies they’ve acquired along the way, old companies have a substantial “break-up value.” Shareholders act like the relatives of that aged rich aunt, waiting around to find out who will get what.
+There’s always the chance an old company can turn itself around, as Xerox and American Express have been doing in the past couple of years.
+On the other hand, when an old company falters or stumbles as badly as these companies did, it may take twenty or thirty years before it can get itself back on track. Patience is a virtue, but it’s not well rewarded when you own stock in a company that’s past its prime.
+The Corporate Soap Opera
+There are a lot of goings-on between companies. Watching them can be a great soap opera. If they aren’t getting married (called a “merger”), then they’re getting divorced (called a “divestiture” or the “spinoff of one of our divisions”). On top of that, there are “takeovers,” where one company is swallowed up by another. When the company that’s about to be swallowed doesn’t put up a fight, we call it a “friendly takeover.” When it objects to being swallowed and makes a struggle and tries to squirm out of it, we call it a “hostile takeover.”
+This isn’t as bad as it sounds, because in the world of finance, taking over a company is generally considered acceptable behavior. It comes with the territory, because when a company goes public, it no longer controls who the owners will be. It may try to protect itself from being taken over, but few companies are takeover-proof. And since they have the right to do it to somebody else, they can’t get too mad when somebody else tries to do it to them.
+In either kind of takeover, friendly or hostile, the company that gets swallowed loses its independence and becomes a division of the company that’s doing the swallowing. A good example of this is Kraft. Kraft was once an independent cheesemaker with its own stock that anyone could buy. It was owned by individuals, mutual funds, and pension funds alike. Then along came Philip Morris.
+The directors of Philip Morris decided it was unwise for them to sell cigarettes and nothing else. So they started taking over companies that made other kinds of products, such as cheese and beer. A long time ago, they bought the Miller Brewing Company. They also acquired Wisconsin Tissue, 7 UP, and General Foods. In 1982, they bought Entenmann’s and got into the doughnut business, and in 1988, they took over Kraft.
+The way a takeover happens is that the acquiring company buys all the shares from the thousands of different owners of the company being acquired, in this case, Kraft. Generally, the acquiring company, in this case, Philip Morris, makes a “tender offer” at a fixed price. As soon as Philip Morris gets its hands on 51 percent of the Kraft shares, the deal is all but done. It has majority control, and from then on, it’s easy to convince the owners of the other 49 percent of Kraft to sell their shares as well.
+Friendly takeovers are short and sweet. If a company isn’t doing well on its own, its shareholders will welcome the change in management. In most instances, they are delighted to sell their shares, because the acquiring company offers a price that is generally much higher than the going rate for the shares on the stock market. The stock price of a target company may double or even triple overnight when the deal is announced.
+A hostile takeover can turn into a knock-down, drag-out battle in the courts, as well as a bidding war, if two or more companies are fighting over the same target. These battles have been known to last for months. Once in a while, a flea swallows an elephant, but usually it’s the other way around, and the company doing the swallowing is bigger than the company getting swallowed.
+Usually, when a big company starts looking around for an acquisition, it’s got more cash in the bank than it knows what to do with. It could send this extra cash to the shareholders as a special dividend or a bonus, but the people who run companies will tell you that mailing out bonus checks isn’t nearly as exciting as plotting a takeover and using the extra cash to finance it. Whatever kind of business they’re planning to take over, they’re convinced they can manage it better and more profitably than the current leadership can. So these deals aren’t only about money. They’re also about egos.
+The most successful mergers and takeovers are those in which the parties involved are in the same line of work, or at least have something in common. In romance, we call this “seeking a compatible partner.” In business, we call it “synergy.”
+Georgia Pacific, a lumbering giant, once took over two smaller lumber companies, Puget Sound Pulp & Timber Co. and Hudson Pulp & Paper, thereby expanding its operations. This was the classic “synergy” because all three were in the tree business. They benefited from moving in together under the same roof for the same reason that couples benefit from getting married: Two, or in this case, three, can live more cheaply than one.
+Another example of classic “synergy” is Hershey’s acquisition of H. B. Reese Candies, which took place in the 1960s. This was a strategic alliance between a famous peanut-butter cup and a famous chocolate bar, and both have lived happily ever since.
+Pepsi-Co has done well with its multiple takeovers of Kentucky Fried Chicken, Taco Bell, and Pizza Hut, among other brand names. There’s a definite synergy between fast food and soft drinks. Pepsi’s fast-food restaurants sell a lot of Pepsis along with their tacos, chicken, and pizza.
+With Philip Morris, it’s a little harder to detect the synergy between cigarettes, cheese, beer, doughnuts, and toilet paper, until you realize that Philip Morris has been buying great brand names that consumers recognize.
+There’s an ironic synergy in Heinz’s acquisitions of Star Kist tuna, Ore-Ida potatoes, and Weight Watchers. One part of the company is selling groceries, while the other part is selling diets. People laughed about the Weight Watchers, but Heinz understood how to make a brand name out of it and sell the product in stores. It’s been a bonanza.
+Sara Lee, once known as the Kitchens of Sara Lee, went on a takeover binge and captured Booth Fisheries, Oxford Chemical, and Fuller Brush, before moving into vacuum cleaners by taking over Electrolux. At that point, they were selling cakes and the equipment to pick up the crumbs from the cakes, which is a farfetched sort of synergy. But the smartest thing Sara Lee ever did was to take over Hanes. Hanes made the L’eggs stockings that caught the fancy of half the women in the country. L’eggs was a success to begin with, and Sara Lee turned it into a smashing success.
+When a company takes over a string of other companies with which it has little or nothing in common, the result is known as a conglomerate. Conglomerates were popular thirty to forty years ago, then went out of style because most of them failed to live up to expectations. The managers of conglomerates found out it’s not easy to run other people’s businesses.
+The world record for conglomeration may belong to U.S. Industries, which at one point was doing a different takeover every day. Another champion conglomerator was Charles Bluhdorn at Gulf & Western, who never saw a company he didn’t want to take over. He acquired so many of them that Gulf & Western was known as Engulf and Devour. He did so many takeovers that when he died, Gulf & Western’s stock went up! Shareholders believed that the new management would sell off some of Bluhdorn’s acquisitions at a nice profit, which is exactly what happened. Gulf & Western became Paramount Communications—until Paramount was taken over by Viacom.
+Then there was American Can, which made numerous acquisitions from mining companies to Sam Goody. This whole kaboodle was merged with Smith Barney and the Commercial Credit Company, and its name was changed to Primerica. Primerica purchased Shearson from American Express and merged it into Smith Barney. Then Primerica bought Travelers Insurance and changed the name Primerica to the Travelers Group.
+Finally, there’s ITT, which has had more marriages than Elizabeth Taylor. Since 1961, it has merged with or taken over no fewer than thirty-one different enterprises, while later selling off six. The takeover list includes Avis Rent-A-Car, Continental Baking, Levitt Furniture, Sheraton Hotels, Canteen Corp., Eaton Oil, Minnesota National Life, Rayonier, Thorp Finance, Hartford Insurance, and Pennsylvania Glass Sand. Along the way, ITT picked up Caesar’s World and Madison Square Garden.
+For twenty-five years, all the takeover activity didn’t do ITT much good. The stock went nowhere. In the 1990s, the company has worked itself back into shape by cutting costs and debt, and the stock price has tripled in 1994–95. ITT has announced plans to split itself into three parts, with Caesar’s World and Madison Square Garden included in one of the parts.
+Extinct Companies
+Companies die every year. Some die young. They try to go too far too fast on borrowed money they can’t pay back, and they crash. Some die in middle age because their products turn out to be defective, or too old-fashioned, and people stop buying. Maybe they’re in the wrong business, or the right business at the wrong time, or worst of all, the wrong business at the wrong time. Big companies can die right along with smaller and younger companies. American Cotton Oil, Laclede Gas, American Spirits, Baldwin Locomotive, Victor Talking Machine, and Wright Aeronautical were once big enough and important enough to be included in the Dow Jones Industrial Average, but they’re gone now, and who remembers them? The same goes for Studebaker, Nash, and Hudson Motors, Remington Typewriter, and Central Leather.
+There’s one way a company can cease to exist without actually dying. It can be swallowed up by some other company in a takeover. And often, a company can avoid dying a quick death by seeking protection in a bankruptcy court.
+Bankruptcy court is the place where companies go when they can’t pay their bills, and they need time to work things out. So they file for Chapter 11, a form of bankruptcy that allows them to stay in business and gradually pay off their debts. The court appoints a trustee to oversee this effort and make sure everyone involved is treated fairly.
+If it’s a terminal case and the company has no hope of restoring itself to profitability, it may file for Chapter 7. That’s when the doors are closed, the employees sent home, and the desks, lamps, and word processors are carted off to be sold.
+Often in these bankruptcies, the various groups that have a stake in the company (workers, vendors, suppliers, investors) fight with each other over who gets what. These warring factions hire expensive lawyers to argue their cases. The lawyers are well-paid, but rarely do the creditors get back everything they’re owed. There are no funerals for bankrupt companies, but there can be a lot of sorrow and grief, especially among workers, who lose their jobs, and bondholders and stockholders, who lose money on their investments.
+Companies are so important to the health and prosperity of the country that it’s too bad there isn’t a memorial someplace to the ones that have passed away. Or perhaps the state historic preservation departments should put up plaques on the sites where these extinct companies once did business. There ought to be a book that tells the story of interesting companies that have disappeared from the economic landscape, and describes how they lived, how they died, and how they fit into the evolution of capitalism.
+The Economic Climate
+Companies live in a climate—the economic climate. They depend on the outside world for survival, just as plants and humans do. They need a steady supply of capital, also known as the money supply. They need buyers for whatever it is they make, and suppliers for whatever materials they make it from. They need a government that lets them do their job without taxing them to death or pestering them to death with regulations.
+When investors talk about the economic climate, they don’t mean sunny or cloudy, winter or summer. They mean the outside forces that companies must contend with, which help determine whether they make money or lose money, and ultimately, whether they thrive or wither away.
+At one time, when 80 percent of the population owned farms or worked on farms, the economic climate had everything to do with weather. If a drought burned up the crops, or they drowned in the rain, farmers couldn’t make money. And when the farmers had no money, the local general store wasn’t doing any business, and neither were the suppliers to the general store. But when the weather was favorable, farms produced a record harvest that put cash in farmers’ pockets. The farmers spent the money at the general store, which put cash in the store owner’s pockets. The store owners would restock the shelves, which put cash in the suppliers’ pockets. And so on.
+No wonder the weather—and not the stock market—was the favorite topic at lunch counters and on street corners. Weather was so important to people’s livelihood that a book of homespun predictions, The Farmer’s Almanac, was a perennial bestseller. You don’t see any weather books on the best-seller lists today. But books about Wall Street make those lists quite often.
+Today, with less than 1 percent of the population involved in farming, the weather has lost much of its influence. In the business world, people pay less attention to the weather report and more attention to the reports on interest rates, consumer spending, and so forth, that come out of Washington and New York. These are the man-made factors that affect the economic climate.
+In the economic climate, there are three basic conditions: hot, cold, and warm. A hot climate makes investors nervous, and a cold climate depresses them. What they’re always hoping for is the warm climate, also known as the Goldilocks climate, when everything is just right. But it’s hard to maintain the Goldilocks climate. Most of the time, the economy is moving toward one extreme or another: from hot to cold and back again.
+Let’s take the hot climate first. Business is booming, and people are crowding into stores, buying new cars, new couches, new VCRs, new everythings. Merchandise is flying off the shelves, stores hire more clerks to handle the rush, and factories are working overtime to make more products. When the economy reaches the high-heat phase, factories are making so many products that merchandise is piling up at every level: in the stores, in the warehouses, and in the factories themselves. Store owners are keeping more goods on hand, so they won’t be caught short.
+Jobs are easy to find, for anybody who’s halfway qualified, and the help-wanted ads in the newspapers go on for several pages. There’s no better time for teenagers and recent college grads to enter the workforce than in the middle of a hot economy.
+It sounds like the perfect situation: Businesses of all kinds are ringing up big profits; the unemployment lines are getting shorter; and people feel prosperous, confident, and secure in their jobs. That’s why they’re buying everything in sight. But in the world of finance, a hot economy is regarded as a bad thing. It upsets the professional investors on Wall Street. If you pay attention to the business news, you’ll see headlines that read: “Economy Strong, Nation Prosperous, Stock Market Drops 100 Points.”
+The main worry is that a hot economy and too much prosperity will lead to inflation—the technical term for prices going up. Demand for goods and services is high, which leads to a shortage of raw materials, and possibly a shortage of workers. Whenever there’s a shortage of anything, the prices tend to go up. Car manufacturers are paying more for steel, aluminum, and so forth, so they raise the prices of cars. When employees begin to feel the pinch of higher prices, they demand higher wages.
+One price hike leads to another, as businesses and workers take turns trying to match the latest increase. Companies are paying more for electricity, raw materials, and workers. Workers take home bigger paychecks but they lose the advantage because everything they buy is more expensive than it used to be. Landlords are raising rents to cover their increased costs. Pretty soon, inflation is out of control and prices are rising at 5 percent, 10 percent, or in extreme cases, upwards of 20 percent a year. From 1979 to 1981, we had double-digit annual inflation in the United States.
+With new stores being built and factories expanding all over the place, a lot of companies are borrowing money to pay for their construction projects. Meanwhile, a lot of consumers are borrowing money on their credit cards to pay for all the stuff they’ve been buying. The result is more demand for loans at the bank.
+Seeing the crowds of people lining up for loans, banks and finance companies follow in the footsteps of the automakers and all the other businesses. They, too, raise their prices—by charging a higher rate of interest for their loans.
+Soon, you’ve got the price of money rising in lockstep with prices in general—the only prices that go down are stock prices and bond prices. Investors bail out of stocks because they worry that companies can’t grow their earnings fast enough to keep up with inflation. During the inflation of the late 1970s and early 1980s, stock and bond prices took a big fall.
+A hot economy can’t stay hot forever. Eventually, there’s a break in the heat, brought about by the high cost of money. With higher interest rates on home loans, car loans, credit-card loans, you name it, fewer people can afford to buy houses, cars, and so forth. So they stay where they are and put off buying the new house. Or they keep their old clunkers and put off buying a new car.
+Suddenly, there’s a slump in the car business, and Detroit has trouble selling its huge inventory of the latest models. The automakers are giving rebates, and car prices begin to fall a bit. Thousands of auto workers are laid off, and the unemployment lines get longer. People out of work can’t afford to buy things, so they cut back on their spending.
+Instead of taking the annual trip to Disney World, they stay home and watch the Disney Channel on TV. This puts a damper on the motel business in Orlando. Instead of buying a new fall wardrobe, they make do with last year’s wardrobe. This puts a damper on the clothes business. Stores are losing customers and the unsold merchandise is piling up on the shelves.
+Prices are dropping left and right as businesses at all levels try to put the ring back in their cash registers. There are more layoffs, more new faces on the unemployment lines, more empty stores, and more families cutting back on spending. The economy has gone from hot to cold in a matter of months. In fact, if things get any chillier, the entire country is in danger of falling into the economic deep freeze, also known as a recession.
+A review of all the recessions since World War II appears on page 195. You can see that they last an average of eleven months, and cause an average of 1.62 million people to lose their jobs.
+In a recession, business goes from bad to terrible. Companies that sell soft drinks, hamburgers, medicines—things that people either can’t do without or can easily afford—can sail through a recession unscathed. Companies that sell big-ticket items such as cars, refrigerators, and houses have serious problems in recessions. They can lose millions, or even billions, of dollars, and unless they have enough money in the bank to tide them over, they face the prospect of going bankrupt.
+Many investors have learned to “recession-proof” their portfolios. They buy stocks only in McDonald’s, Coca-Cola, or Johnson & Johnson, and other such “consumer growth” companies that tend to do well in cold climates. They ignore the likes of General Motors, Reynolds Metals, or U.S. Home Corp. These are examples of “cyclical” companies that suffer in cold climates. Cyclical companies either sell expensive products, make parts for expensive products, or produce the raw materials used in expensive products. In recessions, consumers stop buying expensive products.
+The perfect situation for companies and their investors is the Goldilocks climate: not too hot and not too cold. But whenever we get into a Goldilocks climate, it doesn’t seem to last. Most of the time, the economy is either heating up or cooling down, although the signals are so confusing that it’s often hard to tell which way we’re headed.
+The government can’t control a lot of things, especially the weather, but it has a big effect on the economic climate. Of all the jobs the federal government does, from fighting wars to fighting poverty, it may be that its most important job is keeping the economy from getting too hot or too cold. If it weren’t for the government, we might have had another Great Depression by now.
+
+
+Nonfarm Payroll Employment Changes During Recessions
+
+
+Recession
+Duration
+Jobs Lost
+Percent Change
+
+
+1948:11–1949:10
+11 months
+−2.26 million
+−5.0%
+
+
+1953:07–1954:05
+10 months
+−1.53 million
+−3.0%
+
+
+1957:08–1958:04
+  8 months
+−2.11 million
+−4.0%
+
+
+1960:04–1961:02
+10 months
+−1.25 million
+−2.3%
+
+
+1969:12–1970:11
+11 months
+−0.83 million
+−1.2%
+
+
+1973:11–1975:03
+16 months
+−1.41 million
+−1.8%
+
+
+1980:01–1980:07
+  6 months
+−1.05 million
+−1.2%
+
+
+1981:07–1982:11
+16 months
+−2.76 million
+−3.0%
+
+
+1990:07–1991:03
+  8 months
+−1.35 million
+−1.2%
+
+
+AVERAGE:
+11 months
+−1.62 million
+−2.5%
+
+
+Sources: U.S. Department of Labor, Bureau of Labor Statistics (BLS); National Bureau of Economic Research (NBER).
+
+
+Nonfarm Payroll Employment Changes During Expansions
+
+
+Expansion
+Duration
+Jobs Gained
+Percent Change
+
+
+1946:01–1948:11
+  34 months
+  +5.35 million
++13.5%
+
+
+1949:10–1953:07
+  45 months
+  +7.58 million
++17.7%
+
+
+1954:05–1957:08
+  39 months
+  +4.06 million
+  +8.3%
+
+
+1958:04–1960:04
+  24 months
+  +3.83 million
+  +7.5%
+
+
+1961:02–1969:12
+106 months
++17.75 million
++33.2%
+
+
+1970:11–1973:11
+  36 months
+  +7.54 million
++10.7%
+
+
+1975:03–1980:01
+  58 months
++14.31 million
++18.7%
+
+
+1980:07–1981:07
+  12 months
+  +1.73 million
+  +1.9%
+
+
+1982:11–1990:07
+  92 months
++21.05 million
++23.7%
+
+
+1991:03–1995:06
+  51 months
+  +8.13 million
+  +7.5%
+
+
+AVERAGE:
+  50 months
+  +9.13 million
++15.0%
+
+
+through 1990:07:
+  50 months
+  +9.24 million
++14.3%
+
+
+Sources: U.S. Department of Labor, Bureau of Labor Statistics (BLS); National Bureau of Economic Research (NBER).
+The federal government is much bigger than it was sixty years ago, during the last Great Depression. Back then, it didn’t have much economic clout. There was no welfare, no social security, no housing department, none of the hundreds of departments we have today. In 1935, the entire federal budget was $6.4 billion, about one-tenth of the total U.S. economy. Today, it’s $1.5 trillion, and nearly one-quarter of the total economy.
+We recently crossed an important divide: As of 1992, more people worked in local, state, and federal governments than in manufacturing. This so-called public sector pays so many salaries and pumps so much money into the economy that it keeps the economy out of the deep freeze. Whether business is bad or good, millions of government employees, social security recipients, and welfare recipients still have money to spend. And when people get laid off, they get unemployment compensation for several months while they look for another job.
+The dark side of this story is that the government has gotten out of whack, with huge budget deficits that soak up investment capital and keep the economy from growing as fast it as once did. Too much of a good thing has become a bad thing.
+The agency in charge of climate control is the Federal Reserve System, also known as the Fed. It has a special way of heating things up and cooling things down—not by blowing on them, but by adding and subtracting money. Given its huge importance, it’s amazing how few people know what the Fed is all about.
+In a survey from several years ago, some people said the Federal Reserve was a national park, while others thought it was a brand of whiskey. In fact, it’s the central banking system that controls the money supply. Whenever the economy is cooling off too much, the Fed does two things. It lowers the interest rates that banks must pay when they borrow money from the government. This causes the banks to lower the interest rates they charge to their customers, so people can afford to take out more loans and buy more cars and more houses. The economy begins to heat up.
+The Fed also pumps money directly into the banks, so they have more to lend. This pumping of money also causes interest rates to go down. And in certain situations, the government can spend more money and stimulate the economy the same way you do every time you spend money at a store.
+If the economy is too hot, the Fed can take the opposite approach: raising interest rates and draining money from the banks. This causes the supply of money to shrink, and interest rates go higher. When this happens, bank loans become too expensive for many consumers, who stop buying cars and houses. The economy starts to cool off. Businesses lose business, workers lose their jobs, and store owners get lonely and slash prices to attract customers.
+Then at some point, when the economy is thoroughly chilled, the Fed steps in and heats it up again. The process goes on endlessly, and Wall Street is always worried about it.
+In the last fifty years, we’ve had nine recessions, so in your lifetime, you’re likely to be subjected to a dozen or more. Each time it happens, you’ll hear from the reporters and the TV commentators that the country is falling apart and that owning stocks is too risky. The thing to remember is that we’ve wiggled out of every recession since the one that turned into the Great Depression. The table on page 195 shows that the average recession lasts eleven months and 1.62 million jobs are lost, while the average recovery lasts fifty months and 9.24 million jobs are created.
+The seasoned investor realizes that stock prices may drop in anticipation of a recession, or because Wall Street is worried about inflation, but there’s no sense in trying to anticipate either predicament, because the economic climate is unpredictable. You have to have faith that inflation will cool down eventually, and that recessions will thaw out.
+The Bulls and the Bears
+In a normal day of trading, many stocks will go up in price, while others will go down. But occasionally there’s a stampede when the prices of thousands of stocks are running in the same direction, like bulls at Pamplona. If the stampede is uphill, we call it a “bull market.”
+When the bulls are having their run, sometimes nine out of ten stocks are hitting new highs every week. People are rushing around buying as many shares as they can afford. They talk to their brokers more often than they talk to their best friends. Nobody wants to miss out on a good thing.
+As long as the good thing lasts, millions of shareholders go to bed happy, and wake up happy. They sing in the shower, whistle while they work, help old ladies across the street, and count their blessings every night as they put themselves to sleep reviewing the gains in their portfolios.
+But a bull market doesn’t last forever. Sooner or later, the stampede will turn downhill. Stock prices will drop, with nine out of ten stocks hitting new lows every week. People who were anxious to buy on the way up will become more anxious to sell on the way down, on the theory that any stock sold today will fetch a better price than it would fetch tomorrow.
+When stock prices fall 10 percent from their most recent peak, it’s called a “correction.” We’ve had fifty-three corrections in this century, or one every two years, on average. When stock prices fall 25 percent or more, it’s called a “bear market.” Of the fifty-three corrections, fifteen have turned into bear markets. That’s one every six years, on average.
+Nobody knows who coined the term “bear market,” but having their name linked to financial losses is unfair to bears. There are no bears within fifty miles of Wall Street, unless you count the bears in the New York zoos, and bears do not dive off peaks the way stocks do in a bear market. You can make a better case for calling a bear market a lemming market, in honor of the investors who sell their stocks because everybody else is selling.
+The Papa Bear market began in 1929, as we’ve already discussed. In the Momma Bear market of 1973–74, the average stock was down 50 percent. There was another bear in 1982, followed by the Crash of 1987, when the Dow dropped over one thousand points in four months, and 508 of those points in a single day. There was the Saddam Hussein bear of 1990, when investors worried about the Gulf War. But these recent bears were easier to handle than the big bears of 1929 and 1973–74.
+An extended bear market can test everybody’s patience and unsettle the most experienced investors. No matter how good you are at picking stocks, your stocks will go down, and just when you think the bottom has been reached, they will go down some more. If you own stock mutual funds, you won’t do much better, because the mutual funds will go down as well. Their fate is tied to the fate of the stocks they own.
+People who bought stocks at the high point in 1929 (this was a small group, fortunately) had to wait twenty-five years to break even on the prices. Imagine your stocks being in the red for a quarter-century! From the high point in 1969 before the crash of 1973–74, it took twelve years to break even. Perhaps we’ll never see another bear market as severe as the one in 1929—that one was prolonged by the Depression. But we can’t ignore the possibility of another bear of the 1973–74 variety, when stock prices are down long enough for a generation of children to get through elementary, junior high, and high school.
+Investors can’t avoid corrections and bear markets any more than northerners can avoid snowstorms. In fifty years of owning stocks, you can expect twenty-five corrections, of which eight or nine will turn into bears.
+It would be nice to be able to get a warning signal, so you could sell your stocks and your mutual funds just before a bear market and then scoop them up later on the cheap. The trouble is, nobody has figured out a way to predict bear markets. The record on that is no better than the record on predicting recessions. Once in a while, somebody calls a bear and becomes a celebrity overnight—a stock analyst named Elaine Garzarelli was celebrated for predicting the Crash of 1987. But you never hear of somebody predicting two bear markets in a row. What you do hear is a chorus of “experts” claiming to see bears that never show up.
+Since we’re all accustomed to taking action to protect ourselves from snowstorms and hurricanes, it’s natural that we would try to take action to protect ourselves from bear markets, even though this is one case in which being prepared like a Boy Scout does more harm than good. Far more money has been lost by investors trying to anticipate corrections than has been lost in all the corrections combined.
+One of the worst mistakes you can make is to switch into and out of stocks or stock mutual funds, hoping to avoid the upcoming correction. It’s also a mistake to sit on your cash and wait for the upcoming correction before you invest in stocks. In trying to time the market to sidestep the bears, people often miss out on the chance to run with the bulls.
+A review of the S&P 500 going back to 1954 shows how expensive it is to be out of stocks during the short stretches when they make their biggest jumps. If you kept all your money in stocks throughout these four decades, your annual return on investment was 11.5 percent. Yet if you were out of stocks for the forty most profitable months during these forty years, your return on investment dropped to 2.7 percent.
+We explained this earlier, but it is worth repeating. Here’s another telling statistic. Starting in 1970, if you were unlucky and invested two thousand dollars at the peak day of the market in each successive year, your annual return was 8.5 percent. If you timed the market perfectly and invested your two thousand dollars at the low point in the market in each successive year, your annual return was 10.1 percent. So the difference between great timing and lousy timing is 1.6 percent.
+Of course, you’d like to be lucky and make that extra 1.1 percent, but you’ll do just fine with lousy timing, as long as you stay invested in stocks. Buy shares in good companies and hold on to them through thick and thin.
+There’s an easy solution to the problem of bear markets. Set up a schedule of buying stocks or stock mutual funds so you’re putting in a small amount of money every month, or four months, or six months. This will remove you from the drama of the bulls and bears.

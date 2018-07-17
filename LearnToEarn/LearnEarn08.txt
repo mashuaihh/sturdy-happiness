@@ -1,0 +1,94 @@
+APPENDIX ONE
+Stockpicking Tools
+It wasn’t long ago that amateur stockpickers had a hard time following the fundamentals of the companies whose stocks they owned. Analysts at the brokerage houses were scurrying around, finding out everything they could, but this information rarely reached the client. If a brokerage house changed its recommendation from “buy” to “sell,” the small-time customer was the last to know.
+If you asked for it, your broker might send you an analyst’s report on a company, but these reports were often several months out of date. Amateur investors had to rely on the quarterly and annual reports put out by companies themselves. They also made frequent trips to the local library, where they pored over a publication called Value Line. Value Line gives a one-page rundown on hundreds of companies and is packed with useful information—it’s an excellent resource even today. Make use of it if you can—if you’ve got a stockbroker, you can probably get the Value Line reports from him or her.
+In the old days, your research was limited to Value Line; Standard & Poor’s reports, which are similar to Value Line, but with less opinion; the occasional analyst’s report from the brokerage house; and the material that arrived directly from companies. Computers have changed all this. There’s been an explosion in financial data that’s available on computers. Every day, some new information service makes its debut—and many of these services are free.
+Computers have made the stockbroker into a much more valuable resource. Instead of mailing you an out-of-date analyst’s report or a page from Value Line, a broker can now pass along all the up-to-date information that shows up on his monitor: the latest word from the analysts, news flashes, the latest earnings estimates for thousands of companies.
+If you have a home computer, you can get all this data on your own, without a stockbroker. This is another area where kids have an advantage over grownups: they already know how to use a modem and tap into on-line services, such as America Online, Prodigy, or CompuServe.
+On-line services can give you an instant readout on stock prices at any time of the day or night, so you don’t have to wait for tomorrow’s newspaper to find out what happened to your stocks. But tracking the prices is the least of it. You can also get company reports, industry reports, news releases, and screens.
+Screens are a wonderful invention—a computer dating service for stocks. You tell the computer what you’re looking for—a company with no debt, for instance; or a company with no debt and lots of cash whose earnings are growing at 20 percent a year; or a company that’s losing money, has no debt and lots of cash, and sells for less than three dollars a share. In seconds, the computer spits out a list of names of companies that fit these descriptions. Before we had computers, it would have been impossible to search the universe of thousands of companies to find the few that meet our requirements. Now, it’s easy.
+You can set up a screen for almost anything: companies that have raised their dividends for twenty years in a row, companies that have increased their earnings twenty years in a row, companies where the dividend yield exceeds 6 percent a year, and so forth. It’s a whole new way to approach stocks. Instead of looking for good investments in the mall, you can look for them on-line.
+Along with the explosion in on-line services, there’s been a surprising turnabout in investor relations. Companies have always tried to communicate with their largest investors, but now they are reaching out to the smallest investors as well. You can get annual reports and quarterly reports on certain companies free, on-line.
+You can call an 800 number to get the latest update on a company’s progress, in a tape-recorded message, sometimes straight from the CEO. If you read The Wall Street Journal, you can’t miss the “club” symbol in the listings on the stock pages. Wherever that symbol appears, it means the company will mail or fax you its reports for free.
+You can also get more and better information on the thousands of mutual funds in existence today. The funds themselves are making an effort to simplify their reports and prospectuses so people can better understand what their strategy is, how risky they are, and how well they’ve performed.
+Magazines such as Forbes and Money and financial newspapers such as The Wall Street Journal publish detailed reviews of mutual funds, where you can learn about different types of funds and their various risks, and which funds in each category have done the best and the worst.
+In addition, two great research organizations, Morningstar and Lipper, track mutual fund performance. Morningstar puts out a mutual-fund guide that does for funds what Value Line does for stocks—there’s a page on each fund that tells the complete story.
+Brokers keep copies of Morningstar in their offices. Before you buy a fund, check to see what Morningstar says about it.
+The Lipper Standings are reprinted twice a year in Barron’s magazine and four times a year in The Wall Street Journal. There, you’ll find out which funds have done the best in different categories.
+Following is a list of some of the services available to any and all investors, most of them free. Take advantage of as many as you can!
+Resources
+STOCK SCREENS: ON THE PRODIGY ONLINE SERVICE
+In Prodigy’s Strategic Investor section you can search, browse, print, or download data on some six thousand stocks that interest you, as well as analyze their income statements, balance sheets, and key ratios. You can screen for companies by industry, yield, five-year EPS growth, and p/e ratio.
+Bloomberg
+800-256-6623
+Listen to interviews with economists, market strategists, and company CEOs, and get updates on financial news. Will fax information, including price charts, Bloomberg research reports, telephone numbers, and addresses for any company traded on a major exchange worldwide. All free.
+Investor In Touch
+617-441-2770
+Fax:617-441-2760
+http://www.money.com/ssnhome.html
+or by e-mail send to: info@money.com
+Available in the World Wide Web. Free access to Nelson’s Directory of over fifteen thousand public companies worldwide. Provides company address, phone number, and fax, and access to SEC filings and headline press releases. Access to technical graphs on almost all U.S.-traded stocks.
+IRIN
+800-474-7702
+On Internet browser http://www.irin.com
+Access to annual reports and SEC documents on-line, free. Available on the Internet or an on-line service with access to the Internet, such as CompuServe, America Online and Prodigy. You can view the documents exactly as they appear in printed form.
+FINANCIAL FAX (product of the Los Angeles Times)
+818-597-2990 or 800-521-2475 x8202
+Fax service that provides a personalized one-page financial report on the performance of stocks you want to track. It’s thirteen to fifteen dollars a month for a daily fax. Weeky service also available.
+Stocks On Call
+Available through PR Newswire
+800-578-7888
+Instant access to full-text news releases of roughly four thousand public companies faxed to you free.
+Morningstar OnDemand
+800-876-5005
+Mutual fund information by fax or mail. Data comes from Morningstar Mutual Funds, a directory of 363 closed-end funds and 1,500 open-end funds. Five dollars per fund page.
+InvestQuest, Inc.
+614-844-3860
+3535 Fishinger Boulevard
+Suite 140
+Columbus, OH 43026
+Internet address: invest.quest.columbus.oh.us
+World Wide Web address:
+http://invest.quest.columbus.oh.us
+Fax-on-Demand available twenty-four hours every day. Search for companies by trading symbol, or alphabetically using phone keypad. Get financial statements, news and earnings releases, product information, market research, industry comparables. Listen to messages from CEO and CFO.
+No Internet access or fax? Here are books or resources available at many libraries and stockbrokers’ offices. Some are too expensive for you to buy on your own.
+Value Line Investment Survey
+800-833-0046
+Value Line Publishing, Inc.
+220 East 42nd Street
+New York, NY 10017-5891
+Classifies 3,500 stocks by industry, updated quarterly. Historical information for each stock is provided on one page of data in the form of a technical chart and table, supplemented by an updated editorial by a Value Line analyst, who ranks each stock for its timeliness. Also provides the names, addresses, and phone numbers of key officers. Each section begins with a Value Line analyst’s industry summary and outlook.
+Nelson’s Directory of Investment Research
+800-333-6357
+One Gateway Plaza
+Port Chester, NY 10573
+Volume I profiles over 6,800 U.S. publicly traded companies, and Volume II profiles over eighty-six hundred international public companies. Provides the names and phone numbers of Wall Street analysts covering the company. Describes companies’ core line of business and lists their address, phone and fax numbers, name and title of their key executives, and a five-year operations summary. Identifies over five hundred research firms, their key executives, analysts, and the industries they cover. Indexes companies by industry, by location, and alphabetically.
+Nelson’s Catalog of Institutional Research Reports
+800-333-6357
+One Gateway Plaza
+Port Chester, NY 10573
+Catalogues virtually every research report published anywhere in the world. Published ten times a year.
+Investment Company Institute’s Directory of Mutual Funds
+202-326-5800
+Investment Company Institute
+1401 H Street, NW
+Suite 1200
+Washington, DC 20005-2148
+An introduction to mutual-fund investing including a directory of more than 4,500 funds organized by investment objective. For each fund the directory provides the name, address, phone number, the year it began, investment advisors, assets, fees, assets under management, and where shares can be bought. Also provides a glossary of terms.
+Investment Company Institute’s Mutual Fund Fact Book
+202-326-5800
+Investment Company Institute
+1401 H Street, NW
+Suite 1200
+Washington, DC 20005-2148
+A yearly publication tracking trends and statistics observed in the mutual-fund industry. Has text as well as charts and graphs. Also provides a glossary of terms.
+Morningstar Mutual Funds
+800-876-5005
+225 West Wacker Drive #400
+Chicago, IL 60606
+Tracks and rates 363 closed-end funds and 1,500 open-end funds for risk. A page dedicated to each fund combines an editorial by a Morningstar analyst with historical technical charts and tables of pertinent financial data. Some information is available on-line through America Online or Prodigy.
+The Wall Street Journal—Quarterly Mutual Fund Review
+Discusses happenings in the mutual-fund industry at the end of each quarter. Provides phone numbers, minimum investment requirements, sales charges, and performance data on funds.
+Wall Street Journal’s Annual Reports Service
+800-654-CLUB (800-654-2582)
+For companies in The Wall Street Journal Money & Investing section, with a club symbol next to their names. Free annual reports and, if available, quarterly reports by mail. Dial 1-800-965-5679 to fax a request.

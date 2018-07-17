@@ -1,0 +1,464 @@
+APPENDIX TWO
+Reading the Numbers—How to Decipher a Balance Sheet
+If a picture is worth a thousand words, in business, so is a number. No matter what the CEO says in the text of an annual report, the numbers in the back of the report give you the complete, unvarnished account of the company’s behavior. If picking stocks becomes your hobby, do yourself a favor and take an accounting course.
+To help you decipher the numbers in the meantime, we’ve concocted a sample of what you’ll find in the typical corporate financial report. It’s the five-year history of Compuspeak, an imaginary enterprise started by an imaginary character, Barclay.
+Barclay is a research scientist from Silicon Valley. In his spare time, he has developed a new gadget called the Interface, which enables the user to issue verbal commands—such as “turn on,” “turn off,” “switch windows,” or “copy to floppy”—to any personal computer. He’s gotten to the point that he’s producing the units in the makeshift laboratory/factory in his garage. He’s taken a second mortgage on his house to pay the bills.
+To get the rest of the story, we move to the balance sheet, shown on page 261. A balance sheet is a list of everything a company owns, as well as everything it owes. It’s similar to a list of pluses and minuses you might make about your personality.
+We call it a balance sheet because the two sides are always kept in balance, with the pluses adding up to the same result as the minuses. Normally, a balance sheet has a left side and a right side, but in our sample balance sheet, we’ve put one side on top of the other.
+Compuspeak gets its start in life from the $100,000 Barclay borrowed from the bank against the value of his house—his second mortgage. He invests this money in his fledgling company. On day one, it shows up on the plus side of the balance sheet under Current Assets in two places: $50,000 in Cash, and $50,000 in Gross Property, Plant, & Equipment. Barclay has spent $50,000 on equipment—the machinery to make his gadgets. At this point, he has no factory, or Plant, because he’s working out of his garage.
+This brings us to depreciation. Depreciation results from the fact that factories, offices, machinery, computers, desks, chairs, and so forth lose their value as they get older. The Internal Revenue Service recognizes this and allows businesses to deduct the lost value of equipment and buildings as they deteriorate or become outmoded.
+Raw land can’t be depreciated, but the IRS has a formula for everything from tape recorders to tanning beds. Buildings usually can be “written off” over twenty to twenty-five years; machinery, typewriters, computers, and so forth have a much shorter depreciation—three to fifteen years depending on the item in question. That’s because they become obsolete faster than buildings do.
+On day one, you can see that there is no Less Accumulated Depreciation under Gross Property Plant & Equipment. That’s because Barclay hasn’t taken any depreciation.
+So much for the pluses—the assets. Now we get to the bottom half, the Current Liabilities. This is what the company owes. On day one, Compuspeak doesn’t owe anybody anything, because Barclay’s $100,000 bank loan is personal—he took out a mortgage on his house. The company’s liabilities are zero.
+Below Current Liabilities, you find Equity. A company gets equity in two ways: by selling shares of its stock or by making money from its business. On day one, Compuspeak hasn’t made any money in its business—notice the Retained Earnings are zero—so its only equity is the $100,000 that Barclay invested in the company. That’s the Paid-in Capital.
+Below equity, you get to Liabilities & Shareholder Equity, which is the sum of Total Liabilities, Paid-in Capital, and Retained Earnings. After that, you reach Shares Outstanding. When Barclay invested the original $100,000 in his company, he issued himself 10,000 shares of stock, so each share would be worth $10, as shown in the Book Value of $10 on day one. This was an arbitrary decision on Barclay’s part. He could just as easily have issued himself 1,000 shares worth $100 apiece.
+No matter whether it’s Barclay’s company or General Motors, the balance sheet is set up the same way. You can see at a glance what the pluses are—the cash, the inventories, and so forth—and what the minuses are.
+Beyond day one, we see the balance sheet going forward. Let’s look at the situation at the end of year one, returning to the top of the balance sheet. Under Current Assets, you see there’s only $25,000 in cash left in the company—Barclay has spent the rest to run the business and to manufacture his product, the Interface.
+Then there’s Accounts Receivable of $19,500. This tells us that some of Barclay’s customers have bought the Interface, but they haven’t gotten around to paying the bills. The $19,500 is money owed to the company it hasn’t received yet—hence Accounts Receivable. It’s the total amount that customers owe.
+Next, we come to Inventories of $30,000. That means $30,000 worth of Interfaces are sitting in Barclay’s garage waiting to be sold—along with the parts to make more Interfaces. Unsold merchandise is counted as an asset, although there’s no guarantee Barclay will ever be able to sell these unsold Interfaces at the regular price.
+Dropping down to Gross Property Plant & Equipment, you notice the Less Accumulated Depreciation figure of $10,000. Barclay has “written off” $10,000 worth of machinery. He spent $50,000 to acquire this equipment, but now he’s carrying it on the books at a value of $40,000. He will get a $10,000 deduction on his taxes for this depreciation. Because of the kind of machinery he has, which is quickly outmoded, the IRS allows him to write off 20 percent of the value each year. The $10,000 is 20 percent of the $50,000 expenditure that showed up earlier under Gross Property Plant & Equipment.
+In the Liabilities area, we find $10,000 in Accounts Payable. If Accounts Receivable is money the people owe Barclay, Accounts Payable is money that Barclay owes. It represents all the bills he hasn’t yet paid: telephone bills, electric bills, bills from his suppliers, and so forth.
+Below Liabilities, on the Equity line, you see the Retained Earnings: $4,500. That’s the bottom line—Barclay’s profit from one year in business. The company now has equity of $104,500. This includes the $100,000 Barclay invested at the outset, plus the $4,500 the company earned in the first year.
+Barclay had a choice of what to do with his profit. He could have put the $4,500 into his own pocket by paying himself a dividend. But instead, he left it in the company, so the extra money could be invested in the growth of the business. That’s why we say the earnings were “retained.”
+Thanks to the retained earnings plus his original $100,000 outlay, Barclay’s company is valued at $104,500—the Equity at the end of year one. Since Barclay issued himself 10,000 shares, each share is valued at $10.45 ($104,500 divided by 10,000). This is called the company’s “equity per share” or its “book value.”
+Going forward into year two and beyond, the numbers show how Compuspeak has increased its business, selling more Interfaces while the accounts receivable and the inventories continue to mount. In year two, another element is introduced on the minus side: $121,000 in Bank Debt. This time, Barclay isn’t borrowing the money, the company is doing the borrowing. Compuspeak needs these funds to pay for expansion: new machinery, more inventory, new workers, and so forth.
+Did you notice that bank debt doesn’t count as equity at the bottom of the balance sheet? When banks lend money to companies, the banks don’t become owners. Neither do individuals who buy a company’s bonds. Barclay still owns all 10,000 shares, and after two years of retained earnings, his equity has increased to $114,500.
+Compuspeak has come a long way by the end of year five. The company has $180,000 in cash, plus other Current Assets that add up to $744,500. Just below Current Assets, in Gross Property Plant & Equipment, we discover that Barclay has increased his capital spending, because the gross value of his plant and equipment has jumped from $120,000 at the end of year two to $500,000 at the end of year five.
+To have spent this much, he must have left his garage, set up a small factory someplace else, and installed fancy new machinery. As he buys more equipment, his depreciation rises accordingly.
+Different kinds of companies require different levels of capital spending. Steel mills, for instance, have huge expenses: It costs a lot of money to maintain and to upgrade a steel plant. Oil wells require very little capital spending once the well is drilled and the oil is gushing out. Advertising agencies have almost no capital spending: All they need is an office and a bunch of desks.
+Barclay has fewer capital improvements to pay for than the owner of a steel mill, but relative to the rest of his budget, his capital spending is a big drain on his resources. That’s the nature of the high-tech hardware business he’s in.
+Down in the Liabilities section, we find out that Barclay has paid off the bank debt, because at the end of year five, the debt is back to zero. Where did he get the money to do this, you wonder? You’ll find the answer under the Equity line. Paid-in Capital has jumped from $100,000 to $700,000. Barclay must have issued and sold some stock. Notice the change in Shares Outstanding? There used to be 10,000 shares, all owned by Barclay. Now there are 15,000 shares.
+Another investor has been brought in! On the Paid-in Capital line you can follow his tracks. See the $700,000 figure? We know Barclay put in $100,000 to begin with, so this new investor has paid $600,000 for 5,000 newly issued shares of Compuspeak stock. The new investor owns one-third of Barclay’s company.
+Thanks to this much-needed infusion of capital, the Equity per Share at the end of year five has jumped to $59.63. Another way of saying this is that Compuspeak now has a book value of $59.63 per share. That means Barclay’s own 10,000 shares are worth $596,300. His original $100,000 investment and all his hard work are starting to pay off.
+Why is the mystery investor willing to risk $600,000, paying $120 a share for Barclay’s company? Because he sees how well Barclay has done so far, and he believes the growth in sales and profits will continue. That’s the promise of a small company that’s more than doubling in size every year.
+You can track the earnings for yourself in the category marked Income per Share on the Income Statement on page 262: $0.45 after year one, $1 after year two, $6 after year five. The mystery investor has paid $120 per share for a company that is earning $6 per share, based on the earnings from year five.
+Dividing the stock price ($120) by the earnings ($6), we get the price/earnings ratio: 20. The average stock on the New York Stock Exchange today has a price/earnings ratio of 15 to 16, so the mystery investor is paying slightly more for his stake in Compuspeak than investors in general are paying for publicly traded stocks. He’s doing this because he knows the potential of fast-growing small companies. He knows its risky, but if all goes well, he figures there’s a chance that Compuspeak will eventually go public, the stock will become a ten-, twenty-, or fifty-bagger, and he’ll make many times his money.
+If he had a choice, Barclay wouldn’t sell a third of his beloved Compuspeak. He’s doing it because he needs the money to expand the company, to cover the costs of maintaining the inventory, to carry the accounts receivable, and to pay salaries. His success has produced a cash crunch, and selling shares is the easiest way to raise cash.
+By giving up a third of Compuspeak he insures its survival. He figures that owning 67 percent of a well-funded enterprise is better than owning 100 percent of a company that’s strapped for cash so it can’t realize its potential.
+A few more years down the road, Barclay will reach the point where he needs more money. That may be a perfect time to go public. Until then, Barclay is making a big sacrifice to chase his pot of gold. He has left his “real job” to devote full time to his company, and he’s taking out a minimal salary, just enough to cover basic living expenses. He’s borrowed money on his house to make his initial investment in the company, so his mortgage payments are higher than before. He’s too busy to take vacations and can’t really afford them.
+Barclay’s wife is working overtime at her job so she can pay as many of the household bills as possible. The two of them are eating at home and avoiding expensive restaurants. Instead of buying a new car every four years, as they have in the past, they are keeping the old ones. Their standard of living has declined considerably, but they are both putting up with it. Barclay’s wife is as bullish on Compuspeak as he is.
+Let’s get back to the numbers. Once again, we turn to the Income Statement. Here we get a breakdown of the operations inside the company: how much money is being made and how it’s being spent. In year one, under Sales Revenue, we see that Compuspeak sold $200,000 worth of Interfaces. Meanwhile, the cash that was left in the company savings account earned $2,500 in interest. So Compuspeak’s total take from its first year in business was $202,500. In the lingo of accounting, the total take is called “net revenues.”
+Just below Net Revenues, we find out where most of the net revenues went. This is the Costs section. Here we get a rundown on the costs of materials and manufacturing labor, and also the selling, general, and administrative costs (known as SG&A) of operating the business and promoting the product.
+In year one, you’ll also notice that Barclay spent $20,000 on research and development. He was trying to improve the Interface so competitors would have a hard time knocking him off.
+Not all companies are saddled with as many expenses as Compuspeak is. It’s something to consider before you invest in any stock: Is this a capital-intensive business? Does it require huge outlays for a sales staff and research and development? If so, a lot of money that might otherwise go into the investors’ pockets will be lost to expenses.
+If you invest in a sand-and-gravel-pit company, the research and development costs will be zero, because the company won’t need to improve the sand and gravel to keep up with technological advances. Also, the sales costs will be low, because the company won’t need to hire a sophisticated sales force to market the sand and gravel.
+Likewise, in a company that owns a chain of hamburger joints, research and development will be minimal because it’s hard to improve a hamburger, and the sales force can be hired for minimum wage because selling a hamburger doesn’t require an advanced degree.
+Being in his line of work, Barclay can’t get away with a cut-rate sales force. He needs a trained staff that understands the Interface and can explain it to corporate buyers and to computer stores that stock it for retail sale.
+Some of Barclay’s capital expenditures and all of his research and development expenditures are what we’d call “discretionary.” That means he didn’t have to spend this money. He wasn’t obligated to do research or to upgrade his machinery.
+The head of any company has to decide how much to spend on capital improvements and on research, or whether the company can get along without these improvements. CEOs and other corporate managers have to make these judgments all the time. If they skimp on research or they don’t upgrade their factory and machinery, they run the risk of being destroyed by a competitor who comes along with a better product, manufactured at a lower cost. On the other hand, if they cut capital spending and research, their earnings will go up dramatically in the short run.
+In most cases, higher earnings will boost the stock price, making the shareholders happy. And with the money it didn’t spend on upgrades, the company can declare a fat dividend, making the shareholders even happier. But if the company loses its edge and a competitor steals the business, this happiness will be short-lived. The company’s sales will drop, its earnings will drop, and the stock price will decline. Soon, it will be too broke to pay a dividend.
+By eliminating his research and his capital spending, Barclay could have taken the easy route, awarding himself a tremendous dividend. By boosting his short-term earnings, he could have made the company more profitable to attract a buyer for the rest of his shares. He could have sold out and headed for the golf course.
+But like many of the heroes you read about in Chapter Four, Barclay has resisted the temptation to take money out of his company. He’s keeping up his capital spending and his research, because he believes in the future of the company. Someday, when Compuspeak becomes a $100-million business, he can sell his shares and buy two golf courses and a Learjet. But he probably won’t. He’ll be too busy figuring out how to make Compuspeak into a $200-million business.
+Below Research & Development Expense, we come across our old friend Depreciation. In year one, as we’ve already mentioned, Barclay was able to claim $10,000 in depreciation. This shows up as a cost, as it should. Soon enough, his equipment will be outmoded, and Barclay will have to spend $10,000 to replace it. That’s why the government allows his company to deduct depreciation. The replacement cost of machinery, factories, and so forth is a business expense that someday will have to be paid.
+The next stop is Earnings Before Federal & State Taxes. We see here that Compuspeak earned $7,500 in the first year, before Uncle Sam took his cut. Most of the complaining about the IRS is done by individuals who are unhappy about their income tax rates, but taxes take a sizable bite out of companies as well. Of its $7,500 in earnings, Compuspeak has to send 40 percent, or $3,000, to the government. That leaves the $4,500 in Net Income that we already saw on the balance sheet. If the company doesn’t pay a dividend (Compuspeak doesn’t), “net income” is the same as “retained earnings.” In layman’s language, that’s “profit.”
+Compuspeak is growing very fast, and the numbers are mounting up in all categories. By the end of year five, the company is selling almost $2 million worth of Interfaces, while spending $1 million on materials and labor and $210,000 on research and development (R&D). The annual R&D budget is now more than twice what Barclay invested in the company in the first place. Compuspeak is making a profit of $90,000 a year.
+The Cash Flow Statement on page 263 helps you follow the trail of the money as it moves from one place to another. The $4,500 Net Income from year one shows up again, in the Sources of Funds section, along with the $10,000 that disappeared in the Depreciation. Add in the $100,000 that Barclay spent to buy the original 10,000 shares, plus a $10,000 increase in Accounts Payable, and you’ve got $124,500 in Total Sources of Funds.
+Use of Funds gives you more detail on expenditures: the $50,000 Barclay spent on plant and equipment; the $30,000 in inventories; the $19,500 in accounts receivable. When you subtract the cash outflow of $99,500 from the cash inflow of $124,500, you’re left with $25,000. That’s the $25,000 that shows up as Cash on the top line of the Balance Sheet from year one. This sort of symmetry is beautiful to an accountant.
+Congratulations! You’ve just graduated from the shortest accounting course in history. Now that you’ve gotten this far, you might as well take a peek at the numbers in a real annual report. Some of them may actually begin to make sense.
+
+
+Balance Sheet
+
+
+(STATEMENT OF FINANCIAL CONDITION)
+
+
+ASSETS
+
+
+Current Assets
+Day 1
+End ofYear 1
+End ofYear 2
+End ofYear 5
+
+
+Cash
+50,000
+  25,000
+  40,000
+180,000
+
+
+Accounts Receivable
+         —
+  19,500
+  49,500
+254,500
+
+
+Inventories
+         —
+  30,000
+  80,000
+310,000
+
+
+Total Current Assets
+50,000
+  74,500
+169,500
+744,500
+
+
+Gross Property Plant & Equipment
+50,000
+  50,000
+120,000
+500,000
+
+
+Less Accumulated Depreciation
+         —
+  10,000
+  34,000
+250,000
+
+
+Net Property Plant & Equipment
+  50,000
+  40,000
+  86,000
+250,000
+
+
+TOTAL ASSETS
+100,000
+114,500
+255,500
+994,500
+
+
+
+
+LIABILITIES
+
+
+Current Liabilities
+Day 1
+End of Year 1
+End of Year 2
+End of Year 5
+
+
+Account Payable
+         —
+10,000
+  20,000
+100,000
+
+
+Bank Debt
+         —
+         —
+121,000
+         —
+
+
+Long-Term Debt Due w/in 1 Year
+         —
+         —
+         —
+         —
+
+
+Total Current Liabilities
+         0
+10,000
+141,000
+100,000
+
+
+Long Term Debt
+         —
+         —
+         —
+         —
+
+
+TOTAL LIABILITIES
+         0
+10,000
+141,000
+100,000
+
+
+EQUITY
+
+
+Paid-in Capital
+100,000
+100,000
+100,000
+700,000
+
+
+Retained Earnings
+         —
+    4,500
+  14,500
+194,500
+
+
+ 
+100,000
+104,000
+114,500
+894,500
+
+
+LIABILITIES & SHAREHOLDER EQUITY
+100,000
+114,500
+255,500
+994,500
+
+
+Shares Outstanding
+  10,000
+  10,000
+  10,000
+  15,000
+
+
+Equity or Book Value per Share
+    10.00
+    10.45
+    11.45
+    59.63
+
+
+
+
+ 
+Year 1
+Year 2
+Year 5
+
+
+Sales Revenue
+200,000
+400,000
+1,900,000
+
+
+Interest Income
+    2,500
+    1,000
+     10,000
+
+
+Net Revenues
+202,500
+401,000
+1,910,000
+
+
+Costs
+
+
+Materials & Manufacturing Labor Costs
+110,000
+204,000
+1,000,000
+
+
+Selling, General, & Administrative
+  55,000
+111,000
+   448,000
+
+
+Research & Development Expense
+  20,000
+  40,000
+   210,000
+
+
+Depreciation
+  10,000
+  24,000
+   102,000
+
+
+Interest Expense
+        —
+    6,000
+        —
+
+
+   Total Costs
+195,000
+385,000
+1,760,000
+
+
+Earnings Before Federal & State Taxes
+     7,500
+  16,000
+   150,000
+
+
+Taxes (40%)
+     3,000
+    6,000
+      60,000
+
+
+Net Income
+     4,500
+  10,000
+      90,000
+
+
+Shares Outstanding
+   10,000
+  10,000
+      15,000
+
+
+Income per Share
+       0.45
+      1.00
+         6.00
+
+
+
+
+Cash Flow Statement
+
+
+SOURCES OF FUNDS
+Year 1
+Year 2
+Year 5
+
+
+Cash Flow from Operations
+
+
+Net Income
+   4,500
+  10,000
+  90,000
+
+
+Depreciation
+  10,000
+  24,000
+102,000
+
+
+ 
+  14,500
+  34,000
+192,000
+
+
+Increase in Accounts Payable
+  10,000
+  10,000
+   50,000
+
+
+Cash Flow from Financing
+
+
+Sale of Common Stock
+100,000
+        —
+        —
+
+
+Proceeds from Short-Term Debt
+        —
+121,000
+        —
+
+
+Proceeds from Long-Term Debt
+        —
+        —
+        —
+
+
+ 
+100,000
+121,000
+          0
+
+
+TOTAL SOURCES OF FUNDS
+124,500
+165,000
+242,000
+
+
+USE OF FUNDS
+
+
+Additions to Property, Plant & Equipment
+   50,000
+    70,00
+160,000
+
+
+Increase in Inventories
+   30,000
+  50,000
+   80,000
+
+
+Increase in Accounts Receivable
+   19,500
+  30,000
+   60,000
+
+
+Acquisitions of Businesses
+        —
+        —
+        —
+
+
+Repayment of Short-Term Debt
+        —
+        —
+        —
+
+
+Repayment of Long-Term Debt
+        —
+        —
+        —
+
+
+Dividends to Stockholders
+        —
+        —
+        —
+
+
+Total Uses
+  99,500
+150,000
+300,000
+
+
+Cash Beginning of Year
+           0
+  25,000
+238,000
+
+
+Increase (Decrease in Cash)
+  25,000
+  15,000
+(58,000)
+
+
+Cash End of Year
+  25,000
+  40,000
+180,000
+
